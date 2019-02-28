@@ -1,7 +1,7 @@
 # MansOpenSource
-الاسم :
+name :
 عمر ابراهيم الحسيني ابراهيم محمود
-المشروع :
+project :
 website for education with arabic chatbot 
 examples :
 botsify.com 
